@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)]
 <h1 align="center">Hi 👋, I'm Kumaravel</h1>
 <h3 align="center">A Junior programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kumaravel4502&label=Profile%20views&color=0e75b6&style=flat" alt="Kumaravel4502" /> </p>
 
 🌱 I’m currently learning Python 
