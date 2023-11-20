@@ -1,9 +1,9 @@
 [![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)]
 <h1 align="center">Hi 👋, I'm Kumaravel</h1>
 <h3 align="center">A Junior programmer from India</h3>
-<p align="left"> <img src="https://kumarevl.com/ghpvc/?username=kumaravel4502&label=Profile%20views&color=0e75b6&style=flat" alt="kumaravel4502" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaravel4502" alt="kumaravel4502" /></a> </p>
+🌱 I’m currently learning Python 
 
 - 📫 How to reach me *kumaravel4502q@gmail.com*
 
