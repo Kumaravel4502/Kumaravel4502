@@ -1,26 +1,47 @@
-[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)]
-<h1 align="center">Hi 👋, I'm Kumaravel</h1>
-<h3 align="center">A Junior programmer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kumaravel4502&label=Profile%20views&color=0e75b6&style=flat" alt="Kumaravel4502" /> </p>
+# Hi there, I'm Kumaravel! 👋
 
-🌱 I’m currently learning Python 
 
-- 📫 How to reach me *kumaravel4502q@gmail.com*
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumaravel4502/)
 
-- ⚡ Fun fact *I Think I am Funny*
+# I'm a Student!!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kumaravel4502/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumaravel d" height="30" width="40" /></a>
+- 🌱 I’m currently learning everything 📝
+- 👯 I’m looking to collaborate with other content creators 🎥
+- 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
+- ⚡ Fun fact: I love photography 📸 and basketball 🏀
+
+## Languages and Tools ⚙️
+
+<p> 
+  <a href="#"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="center">My Github Statistics 🔥</h2>   
+<br>
+<p align="center">
+<a href="https://github.com/kumaravel4502">
+<img align="center" alt="Saurabh's Github stats"
+src="https://github-readme-stats.vercel.app/api?username=kumaravel4502&show_icons=true&bg_color=00000000"/>
+</a>
+   </p>
+ <br>
+  <p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kumaravel4502&theme=onedark" alt="kumaravel4502" /> 
+  </a>
+</p>
+ <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaravel4502&show_icons=true&locale=en&layout=compact" alt="kumaravel4502" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaravel4502&show_icons=true&locale=en" alt="kumaravel4502" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaravel4502&" alt="kumaravel4502" /></p>
-
+ <h2 align="center">My contribution Streak 🔥</h2>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kumaravel4502&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
+ 
+  <h2 align="center">Frequently used Language 📺</h2>
+<p align="center">
+  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kumaravel4502&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
+  </a>
+ </p>
