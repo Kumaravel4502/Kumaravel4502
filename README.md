@@ -6,9 +6,9 @@
 
 - 🤝 I’m looking for help with **help with Placements in FAANG**
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me about :Tech
 
-- ⚡ Fun fact **I am a Gamer.**
+- ⚡ Fun fact : I am a Gamer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
