@@ -33,7 +33,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,tailwind,bootstrap" />
 </p>
 
 ### 🛠️ Tools I Use
@@ -46,8 +46,8 @@
 ## 💻 My Gear Setup
 
 | 💻 Laptop              | 🧠 Processor     | 🎮 Graphics          | 🔋 RAM   |
-|------------------------|------------------|-----------------------|----------|
-| Lenovo IdeaPad Slim 3  | Ryzen 7 5700U    | Radeon Integrated     |  16GB    |
+|------------------------|------------------|-----------------------|-----------|
+| Lenovo IdeaPad Slim 3  | Ryzen 7 5700U    | Radeon Integrated     |   16GB    |
 
 ---
 
