@@ -50,25 +50,19 @@
 |------------------------|------------------|----------------------|----------|
 | Lenovo IdeaPad Slim 3  | Ryzen 7 5700U    | Radeon Integrated    | 16GB      |
 
----
 
-# 📊 GitHub Stats:
-<p align="center>
   ![](https://github-readme-stats.vercel.app/api?username=Kumaravel4502&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=Kumaravel4502&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaravel4502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</p>
 
 ## 🏆 GitHub Trophies
-<p align="center>
+
   ![](https://github-profile-trophy.vercel.app/?username=Kumaravel4502&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-</p>
 ### ✍️ Random Dev Quote
-<p align="center>
+
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</p>
 ## 🔝 Most Contributed Repos
 
 <p align="center">
