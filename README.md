@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-b6b4-622f-872a-5751bc00ab93/raw?se=2025-04-14T13%3A11%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=340f5a2f-1602-5b7d-9059-0d94c97d9631&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-14T04%3A31%3A44Z&ske=2025-04-15T04%3A31%3A44Z&sks=b&skv=2024-08-04&sig=ezuu0/sMX16nCzIb1CbrBSBzRmS19lRz02rQZRvhljE%3D" width="300" />
+ <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">     
 </p>
 
 ---
