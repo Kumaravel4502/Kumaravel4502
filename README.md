@@ -13,7 +13,7 @@
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
 
 - 🌱 I’m currently learning **MERN Stack**
-- 🤝 I’m looking for help with **help with Placements in FAANG** 
+- 🤝 I’m looking for **help with Placements in FAANG** 
 - 🧪 Exploring: `Next.js`, `TypeScript`  
 - 💬 Ask me about: `React`, `Tailwind`, `Prisma`, `Node.js`  
 - 🧠 Fun Fact: I am a Gamer
