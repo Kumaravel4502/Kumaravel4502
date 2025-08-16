@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Kumaravel!;Full-Stack+Developer;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Kumaravel!;Full-Stack+Developer;Software+Developer;" alt="Typing Animation" />
 </h1>
 
 <p align="center">
